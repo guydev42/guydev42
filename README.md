@@ -157,20 +157,27 @@ Helping businesses identify where machine learning creates real value — and wh
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=guydev42&repo=calgary-churn-prediction&hide_border=true&bg_color=162240&title_color=E8C230&text_color=EDE9E2&icon_color=3B6FD4" alt="Churn prediction"/>
 </a>
 &nbsp;
+<a href="https://github.com/guydev42/fraud-detection">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=guydev42&repo=fraud-detection&hide_border=true&bg_color=162240&title_color=E8C230&text_color=EDE9E2&icon_color=3B6FD4" alt="Fraud detection"/>
+</a>
+
+<a href="https://github.com/guydev42/rag-document-qa">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=guydev42&repo=rag-document-qa&hide_border=true&bg_color=162240&title_color=E8C230&text_color=EDE9E2&icon_color=3B6FD4" alt="RAG Document QA"/>
+</a>
+&nbsp;
 <a href="https://github.com/guydev42/calgary-ab-test-framework">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=guydev42&repo=calgary-ab-test-framework&hide_border=true&bg_color=162240&title_color=E8C230&text_color=EDE9E2&icon_color=3B6FD4" alt="A/B test framework"/>
 </a>
 
-<a href="https://github.com/guydev42/calgary-propensity-scoring">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=guydev42&repo=calgary-propensity-scoring&hide_border=true&bg_color=162240&title_color=E8C230&text_color=EDE9E2&icon_color=3B6FD4" alt="Propensity scoring"/>
+<a href="https://github.com/guydev42/mlops-pipeline">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=guydev42&repo=mlops-pipeline&hide_border=true&bg_color=162240&title_color=E8C230&text_color=EDE9E2&icon_color=3B6FD4" alt="MLOps pipeline"/>
 </a>
 &nbsp;
-<a href="https://github.com/guydev42/calgary-building-permit-predictor">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=guydev42&repo=calgary-building-permit-predictor&hide_border=true&bg_color=162240&title_color=E8C230&text_color=EDE9E2&icon_color=3B6FD4" alt="Building permit predictor"/>
+<a href="https://github.com/guydev42/recommendation-engine">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=guydev42&repo=recommendation-engine&hide_border=true&bg_color=162240&title_color=E8C230&text_color=EDE9E2&icon_color=3B6FD4" alt="Recommendation engine"/>
 </a>
 
 </div>
-
 <br/>
 
 <div align="center">
