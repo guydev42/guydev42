@@ -1,9 +1,9 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:162240,30:1D2D52,60:3B6FD4,100:E8C230&height=250&section=header&text=Ola%20Kowale&fontSize=58&fontColor=EDE9E2&fontAlignY=32&desc=Data%20Scientist%20%E2%94%82%20Machine%20Learning%20Engineer&descSize=20&descColor=E8C230&descAlignY=54&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:162240,30:1D2D52,60:3B6FD4,100:E8C230&height=250&section=header&text=Ola%20Kowale&fontSize=58&fontColor=EDE9E2&fontAlignY=32&desc=Data%20Scientist%20%E2%94%82%20ML%20Engineer%20%E2%94%82%20AI%20Consultant&descSize=20&descColor=E8C230&descAlignY=54&animation=fadeIn)
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=22&duration=3500&pause=1200&color=E8C230&center=true&vCenter=true&multiline=true&repeat=true&width=680&height=70&lines=Turning+messy+data+into+production-ready+models;Classification+%C2%B7+Forecasting+%C2%B7+Experimentation+%C2%B7+NLP;End-to-end+pipelines+from+ingestion+to+deployment" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=22&duration=3500&pause=1200&color=E8C230&center=true&vCenter=true&multiline=true&repeat=true&width=680&height=70&lines=Turning+messy+data+into+production-ready+models;Classification+%C2%B7+Forecasting+%C2%B7+Experimentation+%C2%B7+NLP;Helping+businesses+adopt+AI+with+clarity+and+rigor" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -28,12 +28,12 @@
 
 ```yaml
 name:       Ola Kowale
-role:       Data Scientist & ML Engineer
+role:       Data Scientist | ML Engineer | AI Consultant
 location:   Calgary, AB, Canada
 focus:      [ predictive modeling, customer analytics, urban data science,
-              statistical experimentation, model explainability ]
+              statistical experimentation, AI strategy & adoption ]
 education:  MSc Applied Mathematics & Statistics
-currently:  Building end-to-end ML systems on real-world municipal and telecom data
+currently:  Building end-to-end ML systems and advising businesses on AI adoption
 portfolio:  guydev42.github.io/calgary-data-portfolio
 ```
 
@@ -67,6 +67,14 @@ River flow, solar irradiance, transit ridership, shelter occupancy — forecasti
 
 ### Statistical experimentation
 A/B testing frameworks combining frequentist hypothesis testing, Bayesian posterior inference, and sequential analysis. Power calculations, sample size planning, and meta-analysis across experiment portfolios.
+
+</td>
+</tr>
+<tr>
+<td width="50%" colspan="2" valign="top">
+
+### AI consulting
+Helping businesses identify where machine learning creates real value — and where it does not. Scoping ML use cases, auditing model readiness, building proof-of-concept pipelines, and translating technical results into stakeholder-ready recommendations. Focus on practical adoption over hype.
 
 </td>
 </tr>
